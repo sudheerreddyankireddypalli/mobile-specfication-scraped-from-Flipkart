@@ -5,7 +5,14 @@ We used matplotlib and seaborn for creating plots to better understand and analy
 Data Collection (Web Scraping)
 We used Python libraries like requests and BeautifulSoup to scrape product details of iPhone 16 models from multiple pages on Flipkart.
 
-Key Tasks:
+
+
+
+
+
+
+
+Key Tasks TO Perfome:
 Sent HTTP GET requests to Flipkart search result pages.
 Parsed the HTML response to extract:
 Product Name
@@ -17,7 +24,18 @@ Warranty Info
 Ratings
 Number of Reviews
 Price
----- ########---------
+
+
+
+
+
+
+
+
+
+
+
+
 Univariate Analysis:
 Distribution of product ratings
 Most common ROM variants
