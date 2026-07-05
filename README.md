@@ -15,15 +15,15 @@ We used Python libraries like requests and BeautifulSoup to scrape product detai
 Key Tasks TO Perfome:
 Sent HTTP GET requests to Flipkart search result pages.
 Parsed the HTML response to extract:
-Product Name
-ROM / Storage
-Display Type
-Camera Specs
-Processor Details
-Warranty Info
-Ratings
-Number of Reviews
-Price
+Product Name,
+ROM / Storage,
+Display Type,
+Camera Specs,
+Processor Details,
+Warranty Info,
+Ratings,
+Number of Reviews,
+Price.
 
 
 
